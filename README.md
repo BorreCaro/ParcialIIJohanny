@@ -1,4 +1,4 @@
-# Parcial II Johanny
+# Taller #1 Tercer Corte
 
 ## Integrantes:
 - Lionny Lin Li - 0222510050
@@ -17,7 +17,9 @@ Sistema de carrito de compras desarrollado en C++ que permite gestionar usuarios
 ## Funcionalidades
 0. Inicializar el sistema con datos predeterminados - Angel Merchan
 1. Iniciar sesion - Andres Estrada
-2. Listar usuarios registrados - Andres Estrada
+2. Listar usuarios registrados - Lionny Lin Li
 3. Listar productos (todos o con bajo stock) - Daniel Borre
 4. Cargar comentarios filtrados por fecha - Lionny Lin Li
 5. Añadir productos al carrito de compras - Daniel Borre
+
+6. Leer comentarios desde .txt - Lionny Lin Li
